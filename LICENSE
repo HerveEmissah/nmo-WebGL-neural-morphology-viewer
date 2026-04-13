@@ -1,5 +1,11 @@
 MIT License
 
+This project includes code developed by the Max Planck Digital Library
+and distributed under the MIT License.
+The original implementation has been modified and extended as part of the
+research work conducted by Herve A. Emissah for the 3D visualization of the neural reconstructions.
+
+Copyright (c) 2014 Max Planck Digital Library
 Copyright (c) 2026 HerveEmissah
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
